@@ -1,8 +1,8 @@
 ---
 title: Home
 home: true
-heroText: Hero
-tagline: Some tagline
+heroText: Test
+tagline: Some testing tagline
 actionText: Go To Github
 actionLink: https://github.com/bencodezen/vuepress-blog-boilerplate
 features:
