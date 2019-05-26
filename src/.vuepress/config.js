@@ -1,7 +1,7 @@
 const currentDateUTC = new Date().toUTCString()
 
 module.exports = {
-	title: 'SF1Dev',
+	title: 'Cloud Coder',
 	dest: './public',
 	port: '8081',
 	themeConfig: {
